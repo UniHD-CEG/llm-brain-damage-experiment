@@ -1,5 +1,5 @@
-# Copyright (C) 2024 Yannick Emonds, Computing Systems Group, Institute of Computer Engineering, Heidelberg University.
-# Modifications cpyright (C) 2024 Computing Systems Group, Institute of Computer Engineering, Heidelberg University.
+# Copyright (C) 2024 Yannick Emonds
+# Modifications copyright (C) 2024 Franz Kevin Stehle Computing Systems Group, Institute of Computer Engineering, Heidelberg University.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
