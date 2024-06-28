@@ -1,5 +1,5 @@
 Repository for our experiments on inflicting "Brain Damage" to an LLM [as described in our blog](https://csg.ziti.uni-heidelberg.de/blog/llm-brain-damage/).
-Based on the [https://huggingface.co/google/gemma-7b-it](gemma-7b-it model) published by Google.
+Based on the [gemma-7b-it model](https://huggingface.co/google/gemma-7b-it) published by Google.
 To run the experiments, drop the [huggingface transformers version of the model](https://huggingface.co/google/gemma-7b-it/tree/main) in the folder "models".<br>
 To run the experiment, first set up the conda environment and activate it by running
 
